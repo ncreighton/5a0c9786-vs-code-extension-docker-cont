@@ -46,6 +46,7 @@ Found a bug? [Open an issue](https://github.com/digitalforge/5a0c9786/issues).
 MIT — see [LICENSE](LICENSE) for details.
 
 
+
 ---
 
 ## Free vs Pro
@@ -65,5 +66,8 @@ MIT — see [LICENSE](LICENSE) for details.
 
 Get the full version with all premium features, priority support, and lifetime updates.
 
-**[Get Pro Version](https://whop.com/vs-code-extension-docker-container-inspector-and-compose-manager)**
+**[Get Pro Version](https://buy.stripe.com/8x27sLeTtaQA8FGavOcZb0k)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/8x27sLeTtaQA8FGavOcZb0k)
+- [Buy on Whop](https://whop.com/vs-code-extension-docker-container-inspector-and-compose-manager)
 
